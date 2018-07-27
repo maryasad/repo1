@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 3037-024D
+
+ Directory of C:\MyFile\Udemy\Git\MyFolder
+
+07/27/2018  06:23 PM    <DIR>          .
+07/27/2018  06:23 PM    <DIR>          ..
+07/27/2018  05:55 PM                 0 index.html
+07/27/2018  05:56 PM                 7 test1.txt
+07/27/2018  05:56 PM                 0 test2.txt
+07/27/2018  06:23 PM                 0 test3.txt
+               4 File(s)              7 bytes
+               2 Dir(s)  79,474,573,312 bytes free
